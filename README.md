@@ -16,3 +16,9 @@ Below is a diagram of the application:
 - GSON (for parsing Json data)
 - LifeCycle (for LiveData, in order to observe changes in the Data from the Activities)
 - CardView (To represent each item on the RecylerView as a card)
+
+### Improvement ideas
+- Persist data using something like Amplify Data or Android SQLite
+- Be able to create/modify/delete an event
+- Connect app to API to handle data instead of a local Json file
+- Improve UI
